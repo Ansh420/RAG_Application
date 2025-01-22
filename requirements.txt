@@ -3,3 +3,4 @@ langchain
 python-dotenv
 langchain-community
 langchain_core
+langchan_groq
